@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きみのためのうた",
+  "base_artist": "nyamura",
+  "createdAt": "2025-12-16T15:23:31.454607Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きみのためのうた",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_きみのためのうた_nyamura.txt"
+    }
+  ]
+}
